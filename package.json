@@ -1,0 +1,31 @@
+{
+  "name": "shanthinidinesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@ringcentral/sdk": "^4.0.0",
+    "axios": "^0.19.2",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "babel-register": "^6.26.0",
+    "base-64": "^0.1.0",
+    "browserify": "^16.5.0",
+    "btoa": "^1.2.1",
+    "buffer": "^5.5.0",
+    "express": "^4.17.1",
+    "js": "^0.1.0",
+    "mustache": "^4.0.1",
+    "node": "^13.11.0",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0",
+    "vimeo": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
