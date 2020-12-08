@@ -1,0 +1,18 @@
+{
+  "applogic": {
+    "targets": [
+      "messenger"
+    ],
+    "ignore": [
+      "messagereceiver"
+    ],
+    "source": "applogic"
+  },
+  "functions": {
+    "targets": [
+      "twilio_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
